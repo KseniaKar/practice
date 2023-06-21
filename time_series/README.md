@@ -1,6 +1,7 @@
 # Прогноз количества заказов для сервиса такси
 
 [ipynb](https://github.com/KseniaKar/Portfolio/blob/main/time_series/time%20series.ipynb)
+[HTML](https://github.com/KseniaKar/Portfolio/blob/main/time_series/time_series.html)
 
 ## Описание проекта
 
