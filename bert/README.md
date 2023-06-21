@@ -1,6 +1,6 @@
 # Анализ текстов
 
-[md](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.md)    [ipynb](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.ipynb)
+[html](https://github.com/KseniaKar/Portfolio/blob/main/bert/bert.html)    [ipynb](https://github.com/KseniaKar/Portfolio/blob/main/bert/bert.ipynb)
 
 ## Описание проекта
 
