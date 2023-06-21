@@ -1,6 +1,7 @@
 # Исследование закономерностей, определяющих популярность компьютерных игр
 
 [ipynb](https://github.com/KseniaKar/Portfolio/blob/main/games/games.ipynb)
+[HTML](https://github.com/KseniaKar/Portfolio/blob/main/games/games.html)
 
 ## Описание проекта
 
