@@ -50,7 +50,7 @@
 - **python**
 - **pandas**
 - **numpy**
-  **seaborn**
+- **seaborn**
 
 - sklearn.linear_model.**LogisticRegression**
 - sklearn.model_selection.**GridSearchCV**
