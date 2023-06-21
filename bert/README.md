@@ -1,6 +1,7 @@
 # Обучение модели классификации комментариев
 
 [ipynb](https://github.com/KseniaKar/Portfolio/blob/main/bert/bert.ipynb)
+[HTML](https://github.com/KseniaKar/Portfolio/blob/main/bert/bert.html)
 
 ## Описание проекта
 
