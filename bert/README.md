@@ -1,6 +1,6 @@
-# Анализ текстов
+# Обучение модели классификации комментариев
 
-[html](https://github.com/KseniaKar/Portfolio/blob/main/bert/bert.html)    [ipynb](https://github.com/KseniaKar/Portfolio/blob/main/bert/bert.ipynb)
+[ipynb](https://github.com/KseniaKar/Portfolio/blob/main/bert/bert.ipynb)
 
 ## Описание проекта
 
