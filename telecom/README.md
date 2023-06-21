@@ -1,6 +1,7 @@
 # Прогнозирование оттока клиентов
 
 [ipynb](https://github.com/KseniaKar/Portfolio/blob/main/telecom/telecom.ipynb)
+[HTML](https://github.com/KseniaKar/Portfolio/blob/main/telecom/telecom.html)
 
 ## Описание проекта
 
