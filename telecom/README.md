@@ -1,4 +1,4 @@
-# Обучение модели классификации комментариев
+# Прогнозирование оттока клиентов
 
 [ipynb](https://github.com/KseniaKar/Portfolio/blob/main/telecom/telecom.ipynb)
 
