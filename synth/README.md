@@ -45,13 +45,10 @@
 - **pandas**
 - **numpy**
 - **seaborn**
-
 - catboost.**CatBoostRegressor**
 - sklearn.model_selection.**train_test_split, cross_val_predict, KFold**
 - sklearn.preprocessing.**StandardScaler, OneHotEncoder**
-- 
 - **statsmodels.api**
-- 
 - **h3pandas**
 - **Dadata** 
 
