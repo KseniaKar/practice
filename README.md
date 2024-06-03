@@ -4,7 +4,7 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Создание синтетического датасета](hhttps://github.com/KseniaKar/practice/tree/main/synth) | Подготовка синтетического датасета и постановка задачи для первого в России открытого курса по геоаналитике| python, pandas, dadata, h3pandas, sklearn, catboost |
+| 1.   | [Создание синтетического датасета](https://github.com/KseniaKar/practice/tree/main/synth) | Подготовка синтетического датасета и постановка задачи для первого в России открытого курса по геоаналитике| python, pandas, dadata, h3pandas, sklearn, catboost |
 | 2.   | [Прогнозирование оттока клиентов](https://github.com/KseniaKar/Portfolio/tree/main/telecom) | Прогнозирование оттока клиентов для оператора связи. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия | python, pandas, numpy, seaborn, sklearn, lightgbm, catboost |
 | 3.   | [Прогноз количества заказов для сервиса такси](https://github.com/KseniaKar/Portfolio/tree/main/time_series) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, sklearn, CatBoost, matplotlib |
 | 4.   | [Анализ текстов](https://github.com/KseniaKar/Portfolio/tree/main/bert) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, Bert, sklearn, CatBoost |
