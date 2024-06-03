@@ -1,7 +1,7 @@
 # Создание синтетического датасета
 
 [ipynb](https://github.com/KseniaKar/Portfolio/blob/main/telecom/telecom.ipynb)
-[HTML](https://github.com/KseniaKar/Portfolio/blob/main/telecom/telecom.html)
+[HTML](https://github.com/KseniaKar/practice/blob/main/synth/synthetic_data.html)
 
 ## Описание проекта
 
